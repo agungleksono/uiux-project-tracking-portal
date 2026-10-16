@@ -1,0 +1,8 @@
+:root {
+  --font-family: Arial, Helvetica, sans-serif;
+  --color-text: #10275a;
+  --color-background: #f3f7fe;
+  --color-primary: rgb(var(--v-theme-primary));
+  --shadow-card:
+    0 24px 48px rgba(30, 69, 126, 0.24), 0 6px 16px rgba(30, 69, 126, 0.12);
+}
